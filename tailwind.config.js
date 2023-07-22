@@ -7,6 +7,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        secondary: ['Montserrat', 'sans-serif'], // Replace 'CustomFont' with your desired font name
+        primary: ['Poppins', 'sans-serif'], // Replace 'AnotherFont' with another font name
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
