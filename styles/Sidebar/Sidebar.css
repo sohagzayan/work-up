@@ -1,0 +1,17 @@
+/* Sidebar.css */
+.sidebar {
+    width: 350px;
+    height: 100%;
+    background-color: #202124;
+    /* color: #fff; */
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 999999;
+    max-width: 85%;
+    /* padding: 20px; */
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  
